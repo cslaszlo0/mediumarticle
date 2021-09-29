@@ -1,0 +1,40 @@
+h1{
+    font-size: 36px;
+}
+figure{
+    text-align: center;
+}
+h1, figcaption{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+article{
+    max-width: 700px;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+
+p,h1{
+    color: rgba(0,0,0,.8);
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 21px;
+    letter-spacing: -.003em;
+    row-gap: 1.58cm;
+}
+
+a{
+    color: rgba(0,0,0,.8);
+}
+
+a:hover{
+    color: rgba(153,153,153,1);
+}
